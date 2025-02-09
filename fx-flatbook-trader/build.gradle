@@ -1,0 +1,10 @@
+description = 'fx-flatbook-trader'
+
+
+dependencies {
+    implementation project(':fx-flatbook-common')
+    implementation project(':fx-flatbook-transport')
+    implementation project(':fx-flatbook-expert-advisor')
+   
+}
+

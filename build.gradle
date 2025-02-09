@@ -1,0 +1,18 @@
+allprojects {
+    repositories {
+        mavenCentral()
+        flatDir {
+            dirs rootProject.file('lib')
+        }
+    }
+}
+
+subprojects {
+    apply plugin: 'java'
+
+    dependencies {
+        implementation fileTree(dir: "${rootProject.projectDir}/lib", include: ["**/*.jar"])
+    }
+}
+
+

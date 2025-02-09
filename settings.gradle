@@ -1,0 +1,8 @@
+rootProject.name = 'fx-flatbook-platforms'
+
+include ':fx-flatbook-server'
+include ':fx-flatbook-admin'
+include ':fx-flatbook-trader'
+include ':fx-flatbook-common'
+include ':fx-flatbook-transport'
+include ':fx-flatbook-expert-advisor'

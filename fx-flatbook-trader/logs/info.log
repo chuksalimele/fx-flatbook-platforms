@@ -1,0 +1,2 @@
+2025-02-09 03:49:44 [AWT-EventQueue-0] INFO  o.a.c.b.FluentPropertyBeanIntrospector - Error when creating PropertyDescriptor for public final void org.apache.commons.configuration2.AbstractConfiguration.setProperty(java.lang.String,java.lang.Object)! Ignoring this property.
+2025-02-09 03:55:17 [AWT-EventQueue-0] INFO  o.a.c.b.FluentPropertyBeanIntrospector - Error when creating PropertyDescriptor for public final void org.apache.commons.configuration2.AbstractConfiguration.setProperty(java.lang.String,java.lang.Object)! Ignoring this property.

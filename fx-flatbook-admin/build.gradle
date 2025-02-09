@@ -1,0 +1,8 @@
+description = 'fx-flatbook-admin'
+
+
+dependencies {
+    implementation project(':fx-flatbook-common')
+    implementation project(':fx-flatbook-transport')
+}
+

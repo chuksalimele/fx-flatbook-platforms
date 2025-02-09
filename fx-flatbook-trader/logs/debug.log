@@ -1,0 +1,493 @@
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter - Setting default value: false
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter - Converting 'Boolean' value 'false' to type 'Boolean'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter -     No conversion required, value is already a Boolean
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter - Converting 'Integer' value '0' to type 'Byte'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter -     Converted to Byte value '0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter - Setting default value:  
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter - Converting 'Character' value ' ' to type 'Character'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter -     No conversion required, value is already a Character
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter - Converting 'Integer' value '0' to type 'Double'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter -     Converted to Double value '0.0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter - Converting 'Integer' value '0' to type 'Float'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter -     Converted to Float value '0.0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter - Converting 'Integer' value '0' to type 'Integer'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter -     No conversion required, value is already a Integer
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter - Converting 'Integer' value '0' to type 'Long'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter -     Converted to Long value '0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter - Converting 'Integer' value '0' to type 'Short'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter -     Converted to Short value '0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigDecimalConverter - Setting default value: 0.0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigDecimalConverter - Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigDecimalConverter -     No conversion required, value is already a BigDecimal
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigIntegerConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigIntegerConverter - Converting 'BigInteger' value '0' to type 'BigInteger'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigIntegerConverter -     No conversion required, value is already a BigInteger
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter - Setting default value: false
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter - Converting 'Boolean' value 'false' to type 'Boolean'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter -     No conversion required, value is already a Boolean
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter - Converting 'Integer' value '0' to type 'Byte'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter -     Converted to Byte value '0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter - Setting default value:  
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter - Converting 'Character' value ' ' to type 'Character'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter -     No conversion required, value is already a Character
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter - Converting 'Integer' value '0' to type 'Double'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter -     Converted to Double value '0.0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter - Converting 'Integer' value '0' to type 'Float'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter -     Converted to Float value '0.0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter - Converting 'Integer' value '0' to type 'Integer'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter -     No conversion required, value is already a Integer
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter - Converting 'Integer' value '0' to type 'Long'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter -     Converted to Long value '0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter - Setting default value: 0
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter - Converting 'Integer' value '0' to type 'Short'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter -     Converted to Short value '0'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.StringConverter - Setting default value: 
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.StringConverter - Converting 'String' value '' to type 'String'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Z@279d19fb
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'boolean[]' value '[Z@279d19fb' to type 'boolean[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a boolean[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [B@112f2a17
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'byte[]' value '[B@112f2a17' to type 'byte[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a byte[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [C@6384f3e2
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'char[]' value '[C@6384f3e2' to type 'char[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a char[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [D@21868adb
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'double[]' value '[D@21868adb' to type 'double[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a double[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [F@dce824d
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'float[]' value '[F@dce824d' to type 'float[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a float[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [I@7f90dcb3
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'int[]' value '[I@7f90dcb3' to type 'int[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a int[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [J@44fd7b30
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'long[]' value '[J@44fd7b30' to type 'long[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a long[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [S@7d7f4fe5
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'short[]' value '[S@7d7f4fe5' to type 'short[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a short[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.math.BigDecimal;@2d022cc6
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@2d022cc6' to type 'BigDecimal[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a BigDecimal[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.math.BigInteger;@359d41a5
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@359d41a5' to type 'BigInteger[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a BigInteger[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Boolean;@449bb00b
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Boolean[]' value '[Ljava.lang.Boolean;@449bb00b' to type 'Boolean[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Boolean[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Byte;@78ae4cdc
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Byte[]' value '[Ljava.lang.Byte;@78ae4cdc' to type 'Byte[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Byte[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Character;@7b7c12a
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Character[]' value '[Ljava.lang.Character;@7b7c12a' to type 'Character[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Character[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Double;@27b11faf
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Double[]' value '[Ljava.lang.Double;@27b11faf' to type 'Double[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Double[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Float;@293cd233
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Float[]' value '[Ljava.lang.Float;@293cd233' to type 'Float[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Float[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Integer;@30e999ba
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Integer[]' value '[Ljava.lang.Integer;@30e999ba' to type 'Integer[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Integer[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Long;@3083a73a
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Long[]' value '[Ljava.lang.Long;@3083a73a' to type 'Long[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Long[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Short;@617ec3a
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Short[]' value '[Ljava.lang.Short;@617ec3a' to type 'Short[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Short[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.String;@5ee904c2
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'String[]' value '[Ljava.lang.String;@5ee904c2' to type 'String[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a String[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Class;@611bfb0d
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Class[]' value '[Ljava.lang.Class;@611bfb0d' to type 'Class[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Class[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.util.Date;@7206b6c4
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Date[]' value '[Ljava.util.Date;@7206b6c4' to type 'Date[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Date[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.util.Calendar;@31824fd6
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Calendar[]' value '[Ljava.util.Calendar;@31824fd6' to type 'Calendar[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Calendar[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.io.File;@69b9005d
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.io.File[]' value '[Ljava.io.File;@69b9005d' to type 'java.io.File[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.io.File[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.sql.Date;@3d1bb19a
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@3d1bb19a' to type 'java.sql.Date[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.sql.Date[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.sql.Time;@438e2a0b
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@438e2a0b' to type 'java.sql.Time[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.sql.Time[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.sql.Timestamp;@188d7d9c
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@188d7d9c' to type 'java.sql.Timestamp[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.sql.Timestamp[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.net.URL;@6b1be7a3
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.net.URL[]' value '[Ljava.net.URL;@6b1be7a3' to type 'java.net.URL[]'
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.net.URL[]
+2025-02-09 03:49:44 [AWT-EventQueue-0] DEBUG o.a.c.b.FluentPropertyBeanIntrospector - Exception is:
+java.beans.IntrospectionException: bad write method arg count: public final void org.apache.commons.configuration2.AbstractConfiguration.setProperty(java.lang.String,java.lang.Object)
+	at java.desktop/java.beans.PropertyDescriptor.findPropertyType(PropertyDescriptor.java:695)
+	at java.desktop/java.beans.PropertyDescriptor.setWriteMethod(PropertyDescriptor.java:356)
+	at java.desktop/java.beans.PropertyDescriptor.<init>(PropertyDescriptor.java:142)
+	at org.apache.commons.beanutils.FluentPropertyBeanIntrospector.createFluentPropertyDescritor(FluentPropertyBeanIntrospector.java:132)
+	at org.apache.commons.beanutils.FluentPropertyBeanIntrospector.introspect(FluentPropertyBeanIntrospector.java:162)
+	at org.apache.commons.beanutils.PropertyUtilsBean.fetchIntrospectionData(PropertyUtilsBean.java:349)
+	at org.apache.commons.beanutils.PropertyUtilsBean.getIntrospectionData(PropertyUtilsBean.java:542)
+	at org.apache.commons.beanutils.PropertyUtilsBean.getPropertyDescriptor(PropertyUtilsBean.java:879)
+	at org.apache.commons.beanutils.PropertyUtilsBean.isWriteable(PropertyUtilsBean.java:1455)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.isPropertyWriteable(BeanHelper.java:291)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.initProperty(BeanHelper.java:272)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.lambda$initBeanProperties$0(BeanHelper.java:247)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.initBeanProperties(BeanHelper.java:247)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.initBean(BeanHelper.java:464)
+	at org.apache.commons.configuration2.beanutils.BeanHelper$BeanCreationContextImpl.initBean(BeanHelper.java:114)
+	at org.apache.commons.configuration2.beanutils.DefaultBeanFactory.initBeanInstance(DefaultBeanFactory.java:283)
+	at org.apache.commons.configuration2.beanutils.DefaultBeanFactory.createBean(DefaultBeanFactory.java:213)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.createBean(BeanHelper.java:393)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.createBean(BeanHelper.java:368)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.createBean(BeanHelper.java:355)
+	at org.apache.commons.configuration2.builder.BasicConfigurationBuilder.createResultInstance(BasicConfigurationBuilder.java:364)
+	at org.apache.commons.configuration2.builder.BasicConfigurationBuilder.createResult(BasicConfigurationBuilder.java:294)
+	at org.apache.commons.configuration2.builder.BasicConfigurationBuilder.getConfiguration(BasicConfigurationBuilder.java:415)
+	at chuks.flatbook.fx.trader.config.AppConfig.createDefaultConfig(AppConfig.java:92)
+	at chuks.flatbook.fx.trader.config.AppConfig.loadOrCreateConfig(AppConfig.java:85)
+	at chuks.flatbook.fx.trader.config.AppConfig.<clinit>(AppConfig.java:57)
+	at chuks.flatbook.fx.trader.main.MainGUI.createAppHomeIfNotExist(MainGUI.java:2373)
+	at chuks.flatbook.fx.trader.main.MainGUI.createExpertLocationIfNotExist(MainGUI.java:2390)
+	at chuks.flatbook.fx.trader.main.MainGUI.<init>(MainGUI.java:319)
+	at chuks.flatbook.fx.trader.main.MainGUI.lambda$main$3(MainGUI.java:2704)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.u.concurrent.GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - Java version: 21
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe base methods: all available
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @42607a4f
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\user\AppData\Local\Temp (java.io.tmpdir)
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+2025-02-09 03:49:46 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+2025-02-09 03:49:47 [AWT-EventQueue-0] DEBUG io.netty.handler.ssl.OpenSsl - netty-tcnative not in the classpath; OpenSslEngine will be unavailable.
+2025-02-09 03:49:48 [AWT-EventQueue-0] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2025-02-09 03:49:48 [AWT-EventQueue-0] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 17872 (auto-detected)
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+2025-02-09 03:49:48 [Thread-0] DEBUG i.netty.util.NetUtilInitializations - Loopback interface: loopback_0 (Software Loopback Interface 1, 0:0:0:0:0:0:0:1)
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 10:e7:c6:ff:fe:e4:af:05 (auto-detected)
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.disableCacheFinalizersForFastThreadLocalThreads: false
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+2025-02-09 03:49:48 [Thread-0] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2025-02-09 03:49:48 [Thread-0] DEBUG i.n.b.ChannelInitializerExtensions - -Dio.netty.bootstrap.extensions: null
+2025-02-09 03:49:49 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2025-02-09 03:49:49 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+2025-02-09 03:49:49 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+2025-02-09 03:49:49 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+2025-02-09 03:49:49 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2025-02-09 03:49:49 [nioEventLoopGroup-2-1] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+2025-02-09 03:49:49 [nioEventLoopGroup-2-1] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+2025-02-09 03:49:49 [nioEventLoopGroup-2-1] DEBUG i.n.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4abea7d3
+2025-02-09 03:49:50 [nioEventLoopGroup-2-1] DEBUG io.netty.handler.ssl.SslHandler - [id: 0x23ea45a6, L:/127.0.0.1:60090 - R:localhost/127.0.0.1:7000] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+2025-02-09 03:53:50 [nioEventLoopGroup-2-3] DEBUG io.netty.handler.ssl.SslHandler - [id: 0x8d049ad3, L:/127.0.0.1:60266 - R:localhost/127.0.0.1:7000] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter - Setting default value: false
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter - Converting 'Boolean' value 'false' to type 'Boolean'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter -     No conversion required, value is already a Boolean
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter - Converting 'Integer' value '0' to type 'Byte'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter -     Converted to Byte value '0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter - Setting default value:  
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter - Converting 'Character' value ' ' to type 'Character'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter -     No conversion required, value is already a Character
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter - Converting 'Integer' value '0' to type 'Double'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter -     Converted to Double value '0.0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter - Converting 'Integer' value '0' to type 'Float'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter -     Converted to Float value '0.0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter - Converting 'Integer' value '0' to type 'Integer'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter -     No conversion required, value is already a Integer
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter - Converting 'Integer' value '0' to type 'Long'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter -     Converted to Long value '0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter - Converting 'Integer' value '0' to type 'Short'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter -     Converted to Short value '0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigDecimalConverter - Setting default value: 0.0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigDecimalConverter - Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigDecimalConverter -     No conversion required, value is already a BigDecimal
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigIntegerConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigIntegerConverter - Converting 'BigInteger' value '0' to type 'BigInteger'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.BigIntegerConverter -     No conversion required, value is already a BigInteger
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter - Setting default value: false
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter - Converting 'Boolean' value 'false' to type 'Boolean'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.BooleanConverter -     No conversion required, value is already a Boolean
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter - Converting 'Integer' value '0' to type 'Byte'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ByteConverter -     Converted to Byte value '0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter - Setting default value:  
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter - Converting 'Character' value ' ' to type 'Character'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.c.CharacterConverter -     No conversion required, value is already a Character
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter - Converting 'Integer' value '0' to type 'Double'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.DoubleConverter -     Converted to Double value '0.0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter - Converting 'Integer' value '0' to type 'Float'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.FloatConverter -     Converted to Float value '0.0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter - Converting 'Integer' value '0' to type 'Integer'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.IntegerConverter -     No conversion required, value is already a Integer
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter - Converting 'Integer' value '0' to type 'Long'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.LongConverter -     Converted to Long value '0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter - Setting default value: 0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter - Converting 'Integer' value '0' to type 'Short'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ShortConverter -     Converted to Short value '0'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.StringConverter - Setting default value: 
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.StringConverter - Converting 'String' value '' to type 'String'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Z@3fde5a0f
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'boolean[]' value '[Z@3fde5a0f' to type 'boolean[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a boolean[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [B@34d0d1d7
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'byte[]' value '[B@34d0d1d7' to type 'byte[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a byte[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [C@13381661
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'char[]' value '[C@13381661' to type 'char[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a char[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [D@76e43e2c
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'double[]' value '[D@76e43e2c' to type 'double[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a double[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [F@17508ab0
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'float[]' value '[F@17508ab0' to type 'float[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a float[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [I@472f0b6e
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'int[]' value '[I@472f0b6e' to type 'int[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a int[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [J@500f517b
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'long[]' value '[J@500f517b' to type 'long[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a long[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [S@15c366e5
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'short[]' value '[S@15c366e5' to type 'short[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a short[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.math.BigDecimal;@36489057
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@36489057' to type 'BigDecimal[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a BigDecimal[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.math.BigInteger;@5136ae89
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@5136ae89' to type 'BigInteger[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a BigInteger[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Boolean;@bb1081e
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Boolean[]' value '[Ljava.lang.Boolean;@bb1081e' to type 'Boolean[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Boolean[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Byte;@509ade1c
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Byte[]' value '[Ljava.lang.Byte;@509ade1c' to type 'Byte[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Byte[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Character;@65fd171d
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Character[]' value '[Ljava.lang.Character;@65fd171d' to type 'Character[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Character[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Double;@349d5ef6
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Double[]' value '[Ljava.lang.Double;@349d5ef6' to type 'Double[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Double[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Float;@27553b2c
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Float[]' value '[Ljava.lang.Float;@27553b2c' to type 'Float[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Float[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Integer;@43ce61a7
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Integer[]' value '[Ljava.lang.Integer;@43ce61a7' to type 'Integer[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Integer[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Long;@bb3fb7e
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Long[]' value '[Ljava.lang.Long;@bb3fb7e' to type 'Long[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Long[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Short;@714054a6
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Short[]' value '[Ljava.lang.Short;@714054a6' to type 'Short[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Short[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.String;@69e4a6a3
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'String[]' value '[Ljava.lang.String;@69e4a6a3' to type 'String[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a String[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.lang.Class;@452d0ad2
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Class[]' value '[Ljava.lang.Class;@452d0ad2' to type 'Class[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Class[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.util.Date;@3240db36
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Date[]' value '[Ljava.util.Date;@3240db36' to type 'Date[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Date[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.util.Calendar;@752947cb
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'Calendar[]' value '[Ljava.util.Calendar;@752947cb' to type 'Calendar[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a Calendar[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.io.File;@52951ebf
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.io.File[]' value '[Ljava.io.File;@52951ebf' to type 'java.io.File[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.io.File[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.sql.Date;@488b5c0c
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@488b5c0c' to type 'java.sql.Date[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.sql.Date[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.sql.Time;@13893f8b
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@13893f8b' to type 'java.sql.Time[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.sql.Time[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.sql.Timestamp;@6cef2d0e
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@6cef2d0e' to type 'java.sql.Timestamp[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.sql.Timestamp[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Setting default value: [Ljava.net.URL;@428021be
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter - Converting 'java.net.URL[]' value '[Ljava.net.URL;@428021be' to type 'java.net.URL[]'
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.converters.ArrayConverter -     No conversion required, value is already a java.net.URL[]
+2025-02-09 03:55:17 [AWT-EventQueue-0] DEBUG o.a.c.b.FluentPropertyBeanIntrospector - Exception is:
+java.beans.IntrospectionException: bad write method arg count: public final void org.apache.commons.configuration2.AbstractConfiguration.setProperty(java.lang.String,java.lang.Object)
+	at java.desktop/java.beans.PropertyDescriptor.findPropertyType(PropertyDescriptor.java:695)
+	at java.desktop/java.beans.PropertyDescriptor.setWriteMethod(PropertyDescriptor.java:356)
+	at java.desktop/java.beans.PropertyDescriptor.<init>(PropertyDescriptor.java:142)
+	at org.apache.commons.beanutils.FluentPropertyBeanIntrospector.createFluentPropertyDescritor(FluentPropertyBeanIntrospector.java:132)
+	at org.apache.commons.beanutils.FluentPropertyBeanIntrospector.introspect(FluentPropertyBeanIntrospector.java:162)
+	at org.apache.commons.beanutils.PropertyUtilsBean.fetchIntrospectionData(PropertyUtilsBean.java:349)
+	at org.apache.commons.beanutils.PropertyUtilsBean.getIntrospectionData(PropertyUtilsBean.java:542)
+	at org.apache.commons.beanutils.PropertyUtilsBean.getPropertyDescriptor(PropertyUtilsBean.java:879)
+	at org.apache.commons.beanutils.PropertyUtilsBean.isWriteable(PropertyUtilsBean.java:1455)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.isPropertyWriteable(BeanHelper.java:291)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.initProperty(BeanHelper.java:272)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.lambda$initBeanProperties$0(BeanHelper.java:247)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.initBeanProperties(BeanHelper.java:247)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.initBean(BeanHelper.java:464)
+	at org.apache.commons.configuration2.beanutils.BeanHelper$BeanCreationContextImpl.initBean(BeanHelper.java:114)
+	at org.apache.commons.configuration2.beanutils.DefaultBeanFactory.initBeanInstance(DefaultBeanFactory.java:283)
+	at org.apache.commons.configuration2.beanutils.DefaultBeanFactory.createBean(DefaultBeanFactory.java:213)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.createBean(BeanHelper.java:393)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.createBean(BeanHelper.java:368)
+	at org.apache.commons.configuration2.beanutils.BeanHelper.createBean(BeanHelper.java:355)
+	at org.apache.commons.configuration2.builder.BasicConfigurationBuilder.createResultInstance(BasicConfigurationBuilder.java:364)
+	at org.apache.commons.configuration2.builder.BasicConfigurationBuilder.createResult(BasicConfigurationBuilder.java:294)
+	at org.apache.commons.configuration2.builder.BasicConfigurationBuilder.getConfiguration(BasicConfigurationBuilder.java:415)
+	at chuks.flatbook.fx.trader.config.AppConfig.createDefaultConfig(AppConfig.java:92)
+	at chuks.flatbook.fx.trader.config.AppConfig.loadOrCreateConfig(AppConfig.java:85)
+	at chuks.flatbook.fx.trader.config.AppConfig.<clinit>(AppConfig.java:57)
+	at chuks.flatbook.fx.trader.main.MainGUI.createAppHomeIfNotExist(MainGUI.java:2373)
+	at chuks.flatbook.fx.trader.main.MainGUI.createExpertLocationIfNotExist(MainGUI.java:2390)
+	at chuks.flatbook.fx.trader.main.MainGUI.<init>(MainGUI.java:319)
+	at chuks.flatbook.fx.trader.main.MainGUI.lambda$main$3(MainGUI.java:2704)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.u.concurrent.GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - Java version: 21
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe base methods: all available
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @42607a4f
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\user\AppData\Local\Temp (java.io.tmpdir)
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+2025-02-09 03:55:19 [AWT-EventQueue-0] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+2025-02-09 03:55:20 [AWT-EventQueue-0] DEBUG io.netty.handler.ssl.OpenSsl - netty-tcnative not in the classpath; OpenSslEngine will be unavailable.
+2025-02-09 03:55:20 [AWT-EventQueue-0] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2025-02-09 03:55:20 [AWT-EventQueue-0] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2025-02-09 03:55:20 [Thread-0] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 16132 (auto-detected)
+2025-02-09 03:55:20 [Thread-0] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+2025-02-09 03:55:20 [Thread-0] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+2025-02-09 03:55:20 [Thread-0] DEBUG i.netty.util.NetUtilInitializations - Loopback interface: loopback_0 (Software Loopback Interface 1, 0:0:0:0:0:0:0:1)
+2025-02-09 03:55:20 [Thread-0] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2025-02-09 03:55:20 [Thread-0] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 10:e7:c6:ff:fe:e4:af:05 (auto-detected)
+2025-02-09 03:55:20 [Thread-0] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+2025-02-09 03:55:20 [Thread-0] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.buffer.PooledByteBufAllocator - -Dio.netty.allocator.disableCacheFinalizersForFastThreadLocalThreads: false
+2025-02-09 03:55:21 [Thread-0] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+2025-02-09 03:55:21 [Thread-0] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+2025-02-09 03:55:21 [Thread-0] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2025-02-09 03:55:21 [Thread-0] DEBUG i.n.b.ChannelInitializerExtensions - -Dio.netty.bootstrap.extensions: null
+2025-02-09 03:55:21 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2025-02-09 03:55:21 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+2025-02-09 03:55:21 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+2025-02-09 03:55:21 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+2025-02-09 03:55:21 [nioEventLoopGroup-2-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2025-02-09 03:55:21 [nioEventLoopGroup-2-1] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+2025-02-09 03:55:21 [nioEventLoopGroup-2-1] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+2025-02-09 03:55:21 [nioEventLoopGroup-2-1] DEBUG i.n.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3488b2d9
+2025-02-09 03:55:21 [nioEventLoopGroup-2-1] DEBUG io.netty.handler.ssl.SslHandler - [id: 0x30f29f20, L:/127.0.0.1:60320 - R:localhost/127.0.0.1:7000] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
